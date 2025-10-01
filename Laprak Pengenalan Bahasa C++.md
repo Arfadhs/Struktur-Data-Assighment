@@ -13,7 +13,7 @@ Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri ser
 
 ### 1. [Soal]
 
-<img width="433" height="210" alt="Image" src="https://github.com/user-attachments/assets/ff629c7b-76c9-4eff-94e0-20a72c5ff879" />
+<img width="589" height="347" alt="Screenshot 2025-10-01 154128" src="https://github.com/user-attachments/assets/37f4046b-0ee7-4168-9b4d-ae61f2e1bcc9" />
 
 #### Output:
 
