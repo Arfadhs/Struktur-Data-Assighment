@@ -1,4 +1,7 @@
-# Struktur-Data-Assighment
-Nama : Arvinanto Bahtiar
-NIM : 2211110014
-Kelas : S1SD03-A
+## Repository praktikum algoritma dan struktur data
+
+<pre>
+Nama : Arif Fadlil Hasibuan
+NIM : 103112400220
+Kelas : S1-IF-04
+</pre>
