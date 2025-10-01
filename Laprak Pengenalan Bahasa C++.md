@@ -11,6 +11,8 @@ Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri ser
 
 <img width="510" height="635" alt="Image" src="https://github.com/user-attachments/assets/52c50963-753b-4ea7-9002-c6170fa687fd" />
 
+### 2. [Unguided]
+
 ### 1. [Soal]
 
 <img width="589" height="347" alt="Screenshot 2025-10-01 154128" src="https://github.com/user-attachments/assets/37f4046b-0ee7-4168-9b4d-ae61f2e1bcc9" />
