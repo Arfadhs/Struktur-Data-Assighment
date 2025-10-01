@@ -1,2 +1,4 @@
 # Struktur-Data-Assighment
-Laprak-1 C++
+Nama : Arvinanto Bahtiar
+NIM : 2211110014
+Kelas : S1SD03-A
