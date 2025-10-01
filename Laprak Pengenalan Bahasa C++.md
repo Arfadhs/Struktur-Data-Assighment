@@ -16,8 +16,7 @@ Berikan penjelasan teori terkait materi modul ini dengan bahasa anda sendiri ser
 
 ### 1\. [Operator]
 
-\<img width="510" height="635" alt="Image" src="[https://github.com/user-attachments/assets/52c50963-753b-4ea7-9002-c6170fa687fd](https://github.com/user-attachments/assets/52c50963-753b-4ea7-9002-c6170fa687fd)" /\>
-
+"E:\A Kuliah Semester 3\KAMIS\Output\Screenshot 2025-10-01 225304.png"
 ### 1\. [Soal]
 
 Program ini adalah kalkulator sederhana yang meminta pengguna memasukkan dua angka bertipe desimal, kemudian program akan menampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian dari kedua angka tersebut.
